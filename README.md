@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on AI-ML based and API based projects
 - 📫 Let's connect - 
--    My LinkedIn profile : https://github.com/anshikavashistha?tab=following
+-    My LinkedIn profile :  https://www.linkedin.com/in/anshika-vashistha-5010841b1/
 -    My Twitter profile :   https://twitter.com/anshikav1534?t=6pKWcNXyDkv5oQeHk7YQ9A&s=08
 <!---
 anshikavashistha/anshikavashistha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
